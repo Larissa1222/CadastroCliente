@@ -4,7 +4,7 @@ About Client Registration: This project was developed by me with Professor Marci
 
 and also experience how it's a code developer workday.
 
-===================================================================================================================
+============================================================================
 
 Sobre Cadastro de cliente: Este projeto é de minha autoria com ajuda do Professor Marcio Funes na nossa aula de Linguagem de Programação. O principal intuito é:
 1. Criar o diagrama de classes para um cadastro de clientes. 2. Codificar o diagrama de classes com metodos e atributos. 3. Desenvolver a interface. 4. Versionar todo o projeto no git.
